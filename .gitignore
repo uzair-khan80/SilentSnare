@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+capture.pcap
+Videos/
+Documentation/
